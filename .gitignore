@@ -1,0 +1,5 @@
+backend/social_media_backend/.env
+backend/social_media_backend/db.sqlite3
+backend/social_media_backend/firebaseConfig.json
+**/__pycache__/
+**/.vscode/
